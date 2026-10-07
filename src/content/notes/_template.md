@@ -4,6 +4,7 @@
 # Files starting with "_" (like this one) are never published.
 title: "Short, specific title"
 description: "One sentence on what the reader will learn. Used in lists, search and link previews."
+# UTC! A time in the future makes the note "scheduled": it is skipped by the build until then.
 pubDatetime: 2026-01-01T09:00:00Z
 # modDatetime: 2026-01-02T09:00:00Z   # set when you update a note later
 tags:
